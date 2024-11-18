@@ -1,0 +1,2 @@
+curl -sO http://18.144.57.224:8080/jnlpJars/agent.jar
+java -jar agent.jar -url http://18.144.57.224:8080/ -secret 0e129036c1e5b9072282b428d8e4a09c19dd2bef861b3f6c1977aad12c7b3f18 -name new -webSocket -workDir "/home/new"
